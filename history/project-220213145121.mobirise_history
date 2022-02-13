@@ -39,26 +39,12 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.9.5",
-    "siteFonts": [
-      {
-        "css": "'Rubik', sans-serif",
-        "name": "Rubik",
-        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
-      }
-    ],
+    "siteFonts": [],
     "uniqCompNum": 114,
-    "versionPublish": "5.6.0",
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
-    "favicon": false,
-    "noImageResize": "",
-    "imageResize": true,
-    "mbrsiteDomain": "7bwikaiw32",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "planyourtrip.html": {
@@ -1249,7 +1235,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dsc1037-2-1280x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc1037-2-1280x800.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc1037-2-1280x800-800x500.jpg",
                 "alt": "",
                 "title": "",
