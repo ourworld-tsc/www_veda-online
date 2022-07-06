@@ -34,3 +34,4 @@ once changes made you have to export again in same directory where the website w
 ## where to find info
 
 - google drive: https://drive.google.com/drive/folders/0B_dXq0dA11-sQW9Qc09MWjlDQ0k?resourcekey=0-heiLHZR7ZEmOB9D9zo0_DQ
+- photo's and others on events https://drive.google.com/drive/folders/1CRDa8OwvT_kE3VgoVla8nlxHaPwd5MpO 
