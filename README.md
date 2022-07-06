@@ -30,3 +30,7 @@ once changes made you have to export again in same directory where the website w
 ## DNS
 
 - dns on https://www.name.com/account/domain/details/veda.online
+
+## where to find info
+
+- google drive: https://drive.google.com/drive/folders/0B_dXq0dA11-sQW9Qc09MWjlDQ0k?resourcekey=0-heiLHZR7ZEmOB9D9zo0_DQ
